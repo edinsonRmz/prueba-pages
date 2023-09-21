@@ -1,4 +1,4 @@
-import IMG1 from '../../../public/png-transparent-usb-flash-drives-flash-memory-usb-electronics-adapter-usb-flash-drive-thumbnail.png';
+import IMG1 from '';
 
 
 
@@ -17,7 +17,7 @@ function inicio() {
             </div>
         </div>
         <div className='Img'>
-            <img className={{IMG1}} src="../../../public/png-transparent-usb-flash-drives-flash-memory-usb-electronics-adapter-usb-flash-drive-thumbnail.png" alt="imagen" />
+            <img className={{IMG1}} src="" alt="imagen" />
         </div>
     </div>
   )
