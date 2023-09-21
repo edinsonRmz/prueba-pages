@@ -1,3 +1,5 @@
+import Img from '../../../public/imagen1.jpg';
+
 
 function inicio() {
   return (
@@ -13,7 +15,9 @@ function inicio() {
                 </button>
             </div>
         </div>
-        <div className='rows'></div>
+        <div className='Img'>
+            <img className='Img' src="../../../public/imagen1.jpg" alt="Img" />
+        </div>
     </div>
   )
 }
