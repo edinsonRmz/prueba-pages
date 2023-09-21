@@ -13,7 +13,7 @@ function inicio() {
                 </button>
             </div>
         </div>
-        <div className='grid'></div>
+        <div className='rows'></div>
     </div>
   )
 }
