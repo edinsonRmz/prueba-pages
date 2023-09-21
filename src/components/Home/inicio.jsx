@@ -20,7 +20,7 @@ function inicio() {
             </div>
         </div>
         <div className='Img'>
-            <img className={{IMG1}} src="../../../public/1373004photo-1590656223930-04c6d0eeb13bjpg.jpg" alt="imagen" />
+            <img className={{IMG1}} style={with'300px'} src="../../../public/1373004photo-1590656223930-04c6d0eeb13bjpg.jpg" alt="imagen" />
         </div>
     </div>
   )
