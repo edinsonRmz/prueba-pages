@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import Img from '../../../public/imagen1.jpg';
 
 
