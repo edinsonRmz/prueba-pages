@@ -1,4 +1,4 @@
-import IMG1 from '../../../public/_5b37b187-cd70-47ec-b9d9-01a30a047768.jfif';
+import IMG1 from '../../../public/1373004photo-1590656223930-04c6d0eeb13bjpg.jpg';
 
 
 
@@ -17,7 +17,7 @@ function inicio() {
             </div>
         </div>
         <div className='Img'>
-            <img className={{IMG1}} src="../../../public/_5b37b187-cd70-47ec-b9d9-01a30a047768.jfif" alt="imagen" />
+            <img className={{IMG1}} src="../../../public/1373004photo-1590656223930-04c6d0eeb13bjpg.jpg" alt="imagen" />
         </div>
     </div>
   )
