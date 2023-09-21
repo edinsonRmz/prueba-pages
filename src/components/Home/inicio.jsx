@@ -1,6 +1,3 @@
-import IMG1 from '';
-
-
 
 function inicio() {
   return (
@@ -17,7 +14,7 @@ function inicio() {
             </div>
         </div>
         <div className='Img'>
-            <img className={{IMG1}} src="" alt="imagen" />
+            
         </div>
     </div>
   )
