@@ -1,11 +1,15 @@
 import Usb from '../../Img/istockphoto-1404865576-612x612.jpg';
+import Bolsa from '../../Img/png-clipart-e-commerce-webstore-affiliate-marketing-business-shopping-bag-web-design-rectangle.png';
 
 
 function inicio() {
   return (
     <div className='inicio'>
-        <div className='texbut'>
-            <h1>Aplicaciones portátiles increíbles</h1>
+        <div className='texbut' 
+            style={{ width:'1px', height:'auto', justifyContent:'center',
+            alignItems:'flex-start', position:'relative',  }}>
+            <h1 className='texto' style={{ flexShrink:'0', color:'#f9c80e'}}>Aplicaciones portátiles increíbles</h1>
+
             <div className='buttons'>
                 <button className='button'>
                     <p>Explorar ahora</p>
@@ -15,8 +19,11 @@ function inicio() {
                 </button>
             </div>
         </div>
-        
-            <img className='Usb' src={{Usb}} alt="ImagenUSB" />
+            <div className='imageness'>
+                 <img className='Usb' style={{width:'300px', height:'300px'}} src={Usb} alt="ImagenUSB" />
+                 <img className='bolsa' style={{width:'300px', height:'400px'}}  src={Bolsa}  alt="Bolsa" />
+            </div>
+           
         
     </div>
   )
