@@ -1,3 +1,5 @@
+import Usb from '../../Img/istockphoto-1404865576-612x612.jpg';
+
 
 function inicio() {
   return (
@@ -14,7 +16,7 @@ function inicio() {
             </div>
         </div>
         <div className='Img'>
-            
+            <img src={{Usb}} alt="ImagenUSB" />
         </div>
     </div>
   )
