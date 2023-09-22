@@ -4,11 +4,11 @@ import Bolsa from '../../Img/png-clipart-e-commerce-webstore-affiliate-marketing
 
 function inicio() {
   return (
-    <div className='inicio' style={{backgroundColor:'#662E9B' }}>
+    <div className='inicio' style={{ }}>
         <div className='texbut' 
             style={{ width:'1px', height:'auto', justifyContent:'center',
             alignItems:'flex-start', position:'relative',  }}>
-            <h1 className='texto' style={{ flexShrink:'0', color:'#f9c80e'}}>Aplicaciones portátiles increíbles</h1>
+            <h1 className='texto' style={{ }}>Aplicaciones portátiles increíbles</h1>
 
             <div className='buttons'>
                 <button className='button'>
