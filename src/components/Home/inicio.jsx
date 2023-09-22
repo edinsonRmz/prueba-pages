@@ -4,7 +4,7 @@ import Bolsa from '../../Img/png-clipart-e-commerce-webstore-affiliate-marketing
 
 function inicio() {
   return (
-    <div className='inicio' style={{backgroundColor:'#662E9B', width:'100%', height:'80%'}}>
+    <div className='inicio' style={{backgroundColor:'#662E9B' }}>
         <div className='texbut' 
             style={{ width:'1px', height:'auto', justifyContent:'center',
             alignItems:'flex-start', position:'relative',  }}>
