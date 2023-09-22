@@ -15,9 +15,9 @@ function inicio() {
                 </button>
             </div>
         </div>
-        <div className='Img'>
-            <img src={{Usb}} alt="ImagenUSB" />
-        </div>
+        
+            <img className='Usb' src={{Usb}} alt="ImagenUSB" />
+        
     </div>
   )
 }
