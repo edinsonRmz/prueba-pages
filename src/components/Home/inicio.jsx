@@ -19,7 +19,7 @@ function inicio() {
                 </button>
             </div>
         </div>
-            <div className='imageness'>
+            <div className='imageness'  >
                  <img className='Usb' style={{width:'300px', height:'300px'}} src={Usb} alt="ImagenUSB" />
                  <img className='bolsa' style={{width:'300px', height:'400px'}}  src={Bolsa}  alt="Bolsa" />
             </div>
